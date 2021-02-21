@@ -2,7 +2,7 @@
 pipeline {
     agent any
 
-    tools {nodejs "nodejs"}
+    tools {nodejs "Node"}
 
     environment {
         APPLITOOLS_API_KEY = 'SnesqlCsa5CqgzGnn99JOk3V105L2P109HN1bl2XcZ6yfDWs110'
